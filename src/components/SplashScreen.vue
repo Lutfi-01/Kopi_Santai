@@ -40,7 +40,7 @@
       </svg>
     </div>
 
-    <h1 class="text-5xl font-bold font-display mb-2 animate-bounce">Kopi Santai!</h1>
+    <h1 class="text-5xl font-bold font-display mb-2 animate-bounce">K☕️pi Santai!</h1>
       <p class="text-lg font-light mb-6 animate-pulse">Sedang memuat kenikmatan...</p>
 
     <!-- Progress Bar -->

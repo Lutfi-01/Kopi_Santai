@@ -2,7 +2,7 @@
   <nav class="fixed top-0 left-0 w-full z-50 bg-[#F5F5F4] shadow-md">
     <div class="max-w-7xl mx-auto px-6 py-4 flex items-center justify-between">
       <div class="text-2xl font-display text-[#333]">
-        Kopi Santai!
+        K☕️pi Santai!
       </div>
 
       <div class="hidden md:flex space-x-8">

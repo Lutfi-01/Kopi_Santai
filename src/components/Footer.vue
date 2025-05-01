@@ -11,7 +11,7 @@
 
       <!-- Copyright -->
       <p class="text-sm text-gray-300 text-center md:text-right">
-        &copy; 2025 Lutfi x Kopi Santai. All rights reserved.
+        &copy; 2025 Lutfi ✗ Kopi Santai. All rights reserved.
       </p>
 
     </div>

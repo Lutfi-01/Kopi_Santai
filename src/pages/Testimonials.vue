@@ -34,17 +34,17 @@ export default {
       testimonials: [
         {
           name: 'Budi Santoso',
-          photo: '/src/assets/budi.jpg',
+          photo: '/gallery/testimoni/budi.jpg',
           comment: 'Suasananya nyaman banget, cocok buat kerja atau sekadar ngobrol santai.'
         },
         {
           name: 'Sari Ayu',
-          photo: '/src/assets/sari.jpg',
+          photo: '/gallery/testimoni/sari.jpg',
           comment: 'Interiornya estetik, cocok buat foto-foto dan nongkrong bareng teman.'
         },
         {
           name: 'Joko Anwar',
-          photo: '/src/assets/joko.jpg',
+          photo: '/gallery/testimoni/joko.jpg',
           comment: 'Harga terjangkau, rasa premium. Worth every sip!'
         }
       ]

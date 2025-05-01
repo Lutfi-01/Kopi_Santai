@@ -13,11 +13,11 @@
 
 <script setup>
 const images = [
-  '/src/assets/images/gallery1.jpg',
-  '/src/assets/images/gallery2.jpg',
-  '/src/assets/images/gallery3.jpg',
-  '/src/assets/images/gallery4.jpg',
-  '/src/assets/images/gallery5.jpg',
-  '/src/assets/images/gallery6.jpg',
+  '/gallery/gallery1.jpg',
+  '/gallery/gallery2.jpg',
+  '/gallery/gallery3.jpg',
+  '/gallery/gallery4.jpg',
+  '/gallery/gallery5.jpg',
+  '/gallery/gallery6.jpg'
 ]
 </script>
